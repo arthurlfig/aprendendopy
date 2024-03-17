@@ -1,3 +1,4 @@
+#primeira
 X = int(input("digite 0, 1 ou 2 "))
 if X == 0:
     print(f"ZERO")
